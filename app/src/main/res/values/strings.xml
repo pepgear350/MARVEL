@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Marvel</string>
+    <string name="try_again">No se pudo actualizar, intente nuevamente.</string>
+    <string name="result">Resultado</string>
+    <string name="cancel">Cancelar</string>
+    <string name="hint_dialog">Realice una operación matemática</string>
+    <string name="tittle_dialog">Suma : (+/-)X + (+/-)B\n\nResta : (+/-)X - (+/-)B\n\nMultiplicación : (+/-)X * (+/-)B\n\nDivisión :(+/-)X / (+/-)B</string>
+    <string name="invalid">Formato inválido</string>
+    <string name="multiple">Resultado : </string>
+    <string name="search">Buscar :</string>
+    <string name="collection_stories">Collection stories</string>
+    <string name="collection_series">Collection series</string>
+    <string name="collection_events">Collection events</string>
+    <string name="collection_creators">Collection creators</string>
+    <string name="collection_comics">Collection comics</string>
+    <string name="collection_character">Collection character</string>
+</resources>
